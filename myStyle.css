@@ -1,0 +1,14 @@
+/*
+CSS for the GuessingGame.java
+Created by Chelle Cruz
+*/
+
+#pane {
+
+	-fx-background-image: url("../guessing-game-background.jpg");
+    -fx-background-repeat: stretch;   
+    -fx-background-size: 700 700;
+    -fx-background-position: center center;
+    -fx-effect: dropshadow(three-pass-box, black, 30, 0.5, 0, 0); 
+
+}
